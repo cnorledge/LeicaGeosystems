@@ -1,23 +1,23 @@
 <script type="application/ld+json">
  { "@context": "http://schema.org",
  "@type": "Organization",
- "name": "Cat Phones",
- "legalName" : "Caterpillar Inc",
- "url": "https://www.catphones.com/",
- "logo": "https://www.catphones.com/en-gb/wp-content/themes/bullitt-CAT/assets/images/logo.png",
- "foundingDate": "2013",
+ "name": "Leica Geosystems",
+ "legalName" : "Leica Geosystems Holdings AG",
+ "url": "https://leica-geosystems.com/",
+ "logo": "https://leica-geosystems.com/-/media/Images/LeicaGeosystems/Logos%20and%20Icons/Icons/leica.ashx",
+ "foundingDate": "1921",
  "address": {
  "@type": "PostalAddress",
- "streetAddress": "One Valpy Valpy Street,",
- "addressLocality": "Reading",
- "addressRegion": "Berkshire",
- "postalCode": "RG1 1AR,",
- "addressCountry": "UK"
+ "streetAddress": "Heinrich-Wild-Strasse 201,",
+ "addressLocality": "Heerbrugg",
+ "addressRegion": "Heerbrugg",
+ "postalCode": "9435,",
+ "addressCountry": "Switzerland"
  },
  "sameAs": [ 
- "https://en-gb.facebook.com/CatRuggedPhones/",
- "https://twitter.com/catruggedphones",
- "https://www.instagram.com/catruggedphones/",
- "https://www.youtube.com/channel/UCBpAFUOlqZKj_SEZHMNwsSw"
+ "https://www.facebook.com/LeicaGeosystems/",
+ "https://twitter.com/LeicaGeosystems",
+ "https://www.instagram.com/leicageosystemsag/",
+ "https://www.youtube.com/channel/UCjYDbcBgfWs4P9Hv_XjHFjA"
  ]}
 </script>
