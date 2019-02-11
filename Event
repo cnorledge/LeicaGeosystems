@@ -2,18 +2,16 @@
 {
   "@context": "https://schema.org",
   "@type": "Event",
-  "name": "Jan Lieberman Concert Series: Journey in Jazz",
-  "startDate": "2018-10-01T19:30-08:00",
+  "name": "Airborne User Group Meeting 2019",
+  "startDate": "2019-02-27T19:30-08:00",
   "location": {
     "@type": "Place",
-    "name": "Santa Clara City Library, Central Park Library",
+    "name": "Palacio Estoril Hotel",
     "address": {
       "@type": "PostalAddress",
-      "streetAddress": "2635 Homestead Rd",
-      "addressLocality": "Santa Clara",
-      "postalCode": "95051",
-      "addressRegion": "CA",
-      "addressCountry": "US"
+      "streetAddress": "Palacio Estoril Hotel",
+      "addressLocality": "Lisbon",
+      "addressCountry": "PT"
     }
   },
   "image": [
@@ -21,19 +19,15 @@
     "https://example.com/photos/4x3/photo.jpg",
     "https://example.com/photos/16x9/photo.jpg"
    ],
-  "description": "Join us for an afternoon of Jazz with Santa Clara resident and pianist Andy Lagunoff. Complimentary food and beverages will be served.",
-  "endDate": "2019-01-01T23:00-08:00",
+  "description": "Get the latest insight and hear about mapping projects from around the world at this exclusive industry event",
+  "endDate": "2019-03-01T23:00-08:00",
   "offers": {
     "@type": "Offer",
-    "url": "https://www.example.com/event_offer/12345_201803180430",
-    "price": "30",
-    "priceCurrency": "USD",
+    "url": "https://leica-geosystems.com/en-GB/about-us/events/events-overview/2018/10/airborne-user-group-meeting",
+    "price": "195",
+    "priceCurrency": "EUR",
     "availability": "https://schema.org/InStock",
     "validFrom": "2017-01-20T16:20-08:00"
-  },
-  "performer": {
-    "@type": "PerformingGroup",
-    "name": "Andy Lagunoff"
   }
 }
 </script>
