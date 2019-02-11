@@ -6,22 +6,22 @@
     "@type": "ListItem",
     "position": 1,
     "item": {
-      "@id": "https://www.catphones.com/",
-      "name": "Cat Phones"
+      "@id": "https://leica-geosystems.com/",
+      "name": "Leica Geosystems"
     }
   },{
     "@type": "ListItem",
     "position": 2,
     "item": {
-      "@id": "https://www.catphones.com/en-gb/features",
-      "name": "Features"
+      "@id": "https://leica-geosystems.com/about-us",
+      "name": "About Us"
     }
   },{
     "@type": "ListItem",
     "position": 3,
     "item": {
-      "@id": "https://www.catphones.com/en-gb/features/waterproof/",
-      "name": "Waterproof"
+      "@id": "https://leica-geosystems.com/about-us",
+      "name": "Shaping Smart Change"
     }
   }]
 }
