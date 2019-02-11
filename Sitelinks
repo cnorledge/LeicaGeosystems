@@ -6,7 +6,7 @@
   "url": "https://www.catphones.com/",
   "potentialAction": {
     "@type": "SearchAction",
-    "target": "https://www.catphones.com/en-gb/?s=test{search_term_string}",
+    "target": "https://leica-geosystems.com/lg-search-results?sc_lang=en#q={search_term_string}""
     "query-input": "required name=search_term_string"
   }
 }
