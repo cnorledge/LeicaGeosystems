@@ -3,7 +3,7 @@
 {
   "@context": "https://schema.org",
   "@type": "WebSite",
-  "url": "https://www.catphones.com/",
+  "url": "https://leica-geosystems.com/",
   "potentialAction": {
     "@type": "SearchAction",
     "target": "https://leica-geosystems.com/lg-search-results?sc_lang=en#q={search_term_string}""
